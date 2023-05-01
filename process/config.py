@@ -1,7 +1,8 @@
 
 
 class Config:
-    sequence_list = ['trial1_camera1', 'trial1_camera2', 'trial2_camera1', 'trial2_camera2']
+    # sequence_list = ['trial1_camera1', 'trial2_camera1']
+    sequence_list = ['trial2_camera1']
     
     video_pth = 'dataset/RGB_Videos'
     mocap_pth = 'dataset/MSV_Optimal_Control_Data'
